@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Designer Brief"
+  short_description: "Generate designer-ready briefs for Amazon creative production."
+  default_prompt: "Use $amazon-designer-brief-generator to produce a designer handoff brief from an approved Amazon sub-image plan."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Wireframe QC"
+  short_description: "Review Amazon sub-image wireframes before designer handoff."
+  default_prompt: "Use $amazon-subimage-wireframe-quality-check to audit a six-image Amazon sub-image wireframe for designer handoff readiness."

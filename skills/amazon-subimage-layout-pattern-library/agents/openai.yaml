@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Layout Patterns"
+  short_description: "Reusable Amazon sub-image composition pattern library."
+  default_prompt: "Use $amazon-subimage-layout-pattern-library to choose distinct layout patterns for a six-image Amazon sub-image plan."

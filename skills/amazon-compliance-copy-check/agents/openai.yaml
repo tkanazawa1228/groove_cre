@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Compliance Copy Check"
+  short_description: "Check Amazon creative copy for risky claims and safer rewrites."
+  default_prompt: "Use $amazon-compliance-copy-check to review Amazon image copy for claim risk and safer alternatives."
